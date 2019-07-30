@@ -3,8 +3,7 @@ body {
   background-color: #c1f6e7;
 }
 .im{
-  position:absolute;
-  right: 450px;
+  margin:0;
 }
 h1 {
   font-size: 5rem;
